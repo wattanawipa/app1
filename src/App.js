@@ -1,11 +1,10 @@
 import React  from "react"
-import {Calculator2} from "./calculator";
+import { EventData2 } from "./event-data";
 
 
 
 function App() {
-  //return <button/>
-  return <Calculator2/>
+  return <EventData2/>
 
 }
 

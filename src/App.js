@@ -1,10 +1,12 @@
 import React  from "react"
-import { EventData2 } from "./event-data";
+import RefsFunc from "./refs-func";
+//import { EventData2 } from "./event-data";
+
 
 
 
 function App() {
-  return <EventData2/>
+  return <RefsFunc/>
 
 }
 

@@ -1,0 +1,16 @@
+.nav{
+    background-color: cadetblue;
+    padding: 7px;
+    text-align: center;
+}
+.menu{
+    color: blue;
+    text-decoration: none;
+    padding: 2px 5px;
+}
+.active_menu{
+    color: red;
+    background-color: yellow;
+    text-decoration: none;
+    padding: 2px 5px;
+}

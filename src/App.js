@@ -1,9 +1,9 @@
 import React  from "react"
-import MessageBox from "./state-func";
+import Router2 from "./router2";
 
 
 function App() {
-  return <MessageBox/>
+  return <Router2/>
 
 }
 
